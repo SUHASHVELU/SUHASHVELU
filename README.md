@@ -59,7 +59,7 @@ A React-based travel assistant with place exploration using OpenStreetMap and li
 A web application for posting and sharing skills with secure authentication.  
 Implements JWT authentication, bcrypt for password security, and Multer for file uploads.  
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, JWT, Bcrypt, Multer  
-🔗 GitHub: https://github.com/SUHASHVELU/Skill_Sharing_Platform_.git
+🔗 GitHub: https://github.com/suhashvelu/SkillShare_hub.git
 
 ---
 
