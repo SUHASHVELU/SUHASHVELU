@@ -15,7 +15,7 @@ As a dedicated and highly motivated professional, I am continuously seeking to e
 ## 🎓 Education
 **Kongu Engineering College, Erode**  
 _B.E. Computer Science and Engineering_  
-2023 – 2027 | **CGPA:** 8.04 (till 4th Semester)
+2023 – 2027 | **CGPA:** 8.07 (till 5th Semester)
 
 **Kongu Vellalar Matriculation Hr. Sec. School, Erode**  
 _Higher Secondary Education_  
