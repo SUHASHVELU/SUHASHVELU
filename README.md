@@ -93,33 +93,53 @@ A motivated, detail-oriented Computer Science student with strong problem-solvin
 - Real-time and 7-day weather forecast.
 - Trip planning with hotels, dates, and favorites.
 
-🔗 Live Demo: https://tour-mate-wazz.vercel.app
+🔗 Live Demo: https://tour-mate-wazz.vercel.app## PROJECTS
+
+### **LifeSync** | *React.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB*
+**May – Jun, 2025**
+
+Developed a full-stack productivity platform that integrates habit tracking, task management, focus timers, journaling, and goal planning into a single application. Built a responsive user interface using React and Tailwind CSS, with a secure Node.js and Express backend connected to MongoDB for data management.
+
+**Key Features:**
+- Habit tracking with daily progress monitoring
+- Task management with reminders and deadlines
+- Focus timer using the Pomodoro technique
+- Personal journaling and goal planning
+- Secure user authentication and cloud-based data storage
+
+**Live Demo:** https://habit-tracker-tnpz.onrender.com
 
 ---
 
-## 🤝 ShareHub
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+### **ShareHub** | *HTML, CSS, JavaScript, Node.js, Express.js, MongoDB*
+**Feb – May, 2025**
 
-- Skill sharing platform.
-- JWT Authentication.
-- Bcrypt password encryption.
-- Multer file uploads.
+Developed a secure skill-sharing web application that enables users to create, browse, and manage educational content. Implemented JWT-based authentication, bcrypt password encryption, and Multer for secure file uploads.
 
-🔗 GitHub: https://github.com/suhashvelu/SkillShare_hub
+**Key Features:**
+- User registration and login with JWT authentication
+- Password encryption using bcrypt
+- File upload support with Multer
+- Skill posting and content management
+- Responsive web interface
 
----
-
-## 📦 Perisense
-**Tech Stack:** ESP8266, DHT11, MQ-135, GPS, React Native
-
-- IoT solution for monitoring perishable goods.
-- Live tracking dashboard.
-- Temperature & humidity alerts.
-- Supply chain monitoring.
-
-🔗 GitHub: https://github.com/suhashvelu/Perisense_Niral
+**GitHub:** https://github.com/suhashvelu/SkillShare_hub
 
 ---
+
+### **Perisense** | *ESP8266, React Native, DHT11, MQ-135, GPS*
+**Apr – Dec, 2025**
+
+Built an IoT-based monitoring system for tracking the environmental conditions of perishable goods during storage and transportation. Developed a React Native mobile application for real-time monitoring, GPS tracking, instant alerts, and dashboard visualization to improve supply chain efficiency.
+
+**Key Features:**
+- Real-time temperature and humidity monitoring
+- GPS-based live location tracking
+- Instant alert notifications
+- Mobile dashboard for monitoring
+- IoT-enabled supply chain management
+
+**GitHub:** https://github.com/suhashvelu/Perisense_Niral
 
 # 💼 Internship Experience
 
